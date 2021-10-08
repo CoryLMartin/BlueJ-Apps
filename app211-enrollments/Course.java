@@ -50,4 +50,11 @@ public class Course
         System.out.println(" --------------------------------");
         System.out.println();
     }
+    
+    public void addModule (Module module)
+    {
+        this.module = module; 
+        
+    }
 }
+
