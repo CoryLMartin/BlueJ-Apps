@@ -52,7 +52,7 @@ public class Course
         System.out.println();
     }
     
-    public void addModule (Module module)
+    public void assignModule(Module module)
     {
         this.module = module; 
         
