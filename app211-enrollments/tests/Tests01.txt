@@ -16,3 +16,18 @@ Cory.printCourse();
 
  Course Code: BT1CTG1: BSc Computing
 
+Course gamesDev = new Course("BT1GDV1", "Games Development");
+Module co452 = new Module("CO452", "Programming Concepts");
+gamesDev.addModule(co452);
+gamesDev.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1GDV1: Games Development
+ Module Code: CO452: Programming Concepts
+
+
+co452.setCredit(15);
+co452.print();
+ Module Code: CO452: Programming Concepts
