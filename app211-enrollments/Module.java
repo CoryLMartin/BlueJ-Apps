@@ -22,7 +22,7 @@ public class Module
         // initialise instance variables
         this.code = code; 
         this.title = title; 
-        credit = 0;
+        credit= 0;
     }
 
     /**
