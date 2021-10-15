@@ -1,6 +1,7 @@
 
 /**
- * Write a description of class Module here.
+ * A class module is a type of module which gives the coder the ability to create their own editable objects. Class modules allow the creator (or whoever 
+ * is modyfying it to define the methods and properties.
  *
  * @Cory Martin
  * @version 1.0 08/10/2021 
