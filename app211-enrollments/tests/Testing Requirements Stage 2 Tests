@@ -1,0 +1,40 @@
+co452.getTitle()
+    returned String "Programming Concepts"
+Module co452 = new Module("CO452", "Programming Concepts");
+co452.print();
+ Module Code: CO452: Programming Concepts
+
+co452.setCredit(15);
+co452.print();
+ Module Code: CO452: Programming Concepts
+
+Course Computing = new Course("BT1CTG1", "BSc Computing");
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: BSc Computing
+    Exception occurred.
+Module co452 = new Module("CO452", "Programming Concepts" );
+co452.getTitle()
+    returned String "Programming Concepts"
+Computing.assignModule(co452);
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: BSc Computing
+ Module Code: CO452: Programming Concepts
+
+
+Computing.print();
+ --------------------------------
+   App211: Course Details
+ --------------------------------
+
+ Course Code: BT1CTG1: BSc Computing
+ Module Code: CO452: Programming Concepts
+
+
