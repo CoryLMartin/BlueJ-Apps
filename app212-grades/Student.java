@@ -104,14 +104,17 @@ public class Student
     
     private void printModules()
     {
-      for (ModuleMark moduleMark : marks)
+      for (ModuleMark mark : marks)
        {
-           moduleMark.print();
-       }
+           mark.print();
+           System.out.println(" \t" + course.convertToGrade(mark.getValue()));
     }
+}
     
-    public void printTranscript()
+    public void printTranscript() 
     {
+        
+    
         System.out.println(" ------------------------------------");
         System.out.println(" App21-02: Exam Board Transcript 2021");
         System.out.println("        by student name");
