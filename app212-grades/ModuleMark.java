@@ -1,9 +1,12 @@
 
 /**
- * Write a description of class ModuleMark here.
+ * Module Mark is the class in which each individual mark is assigned to a
+ * student, The module Mark class also dictates whether or not the student
+ * recives the class credit.
  *
  * @author Derek Peacock and Nicholas Day
- * @version 2021-08-18
+ * @edited by Cory Martin
+ * @version 1.0 04/11/2021
  */
 public class ModuleMark
 {
