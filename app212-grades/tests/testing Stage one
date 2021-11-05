@@ -1,0 +1,88 @@
+Student cory = new Student("Cory Martin", 22045469);
+cory.print();
+ Student ID: 22045469, Cory Martin
+Course gamesDev = new Course("BT1GDV1", "BSc Games Development");
+Student cory = new Student("Cory Martin", 22045469);
+Course gameDev = new Course("BT1GDV1", "BSc Games Development");
+cory.enrol(gameDev);
+cory.printCourse();
+ Student ID: 22045469, Cory Martin
+
+ Course BT1GDV1: BSc Games Development
+
+Module co452 = new Module("CO452", "Programming Concepts");
+gameDev.addModule(co452);
+gameDev.print();
+
+ Course BT1GDV1: BSc Games Development
+
+gameDev.printModules();
+
+ModuleMark coryCo452Mark = new ModuleMark(co452);
+coryCo452Mark.setMark(64);
+cory.addMark(coryCo452Mark);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory Martin
+
+ Course BT1GDV1: BSc Games Development
+
+
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+Student cory = new Student();
+Course gameDev = new Course();
+Module co452 = new Module("CO452", "Programming Concepts");
+gameDev.addModule(co452);
+cory.enrol(gameDev);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+
+ CO452: 	Programming Concepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+Module co450 = new Module("CO450", "Computer Architectures");
+Course gameDev = new Course();
+gameDev.addModule(co450);
+Student cory = new Student();
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+    Exception occurred.
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+    Exception occurred.
+ Student ID: 22045469, Cory
+Student Cory = new Student();
+Cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+    Exception occurred.

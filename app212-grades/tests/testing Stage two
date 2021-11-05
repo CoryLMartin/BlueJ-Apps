@@ -1,0 +1,199 @@
+
+ CO452: 	Programming Concepts
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+Module co450 = new Module("CO450", "Computer Architectures");
+Course gameDev = new Course();
+gameDev.addModule(co450);
+Student cory = new Student();
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+    Exception occurred.
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+    Exception occurred.
+ Student ID: 22045469, Cory
+Student Cory = new Student();
+Cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+    Exception occurred.
+Student cory = new Student();
+Course gameDev = new Course();
+Module co452 = new Module("CO452", "Programming Concepts");
+gameDev.addModule(co452);
+cory.enrol(gameDev);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+Student cory = new Student();
+Course gameDev = new Course();
+Module co452 = new Module("CO452", "Programming Concepts");
+gameDev.addModule(co452);
+cory.enrol(gameDev);
+ModuleMark coryCo452Mark = new ModuleMark(co452);
+coryCo452Mark.setMark(64);
+cory.addMark(coryCo452Mark);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+gameDev.addModule(co452);
+cory.enrol(gameDev);
+coryCo452Mark.setMark(64);
+cory.addMark(coryCo452Mark);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ No Final Course Grade Yet!
+Student cory = new Student();
+Course gameDev = new Course();
+Module co452 = new Module("CO452", "Programming Concepts");
+gameDev.addModule(co452);
+cory.enrol(gameDev);
+ModuleMark coryCo452Mark = new ModuleMark(co452);
+coryCo452Mark.setMark(64);
+cory.addMark(coryCo452Mark);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ Final Course Grade = F
+Module co450 = new Module("CO450", "Computer Architectures");
+gameDev.addModule(co450);
+ModuleMark coryco450Mark = new ModuleMark(co450);
+coryco450Mark.setMark(90);
+cory.addMark(coryco450Mark);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ Final Course Grade = F
+Module co461 = new Module("CO461", "3D Modelling");
+gameDev.addModule(co461);
+ModuleMark moduleMa1 = new ModuleMark(co461);
+ModuleMark corysC0461Mark = new ModuleMark(co461);
+corysC0461Mark.setMark(70);
+cory.addMark(corysC0461Mark);
+cory.printTranscript();
+ ------------------------------------
+ App21-02: Exam Board Transcript 2021
+        by student name
+ ------------------------------------
+ Student ID: 22045469, Cory
+
+ Course BT1GDV1: Games Development
+	  15 credits	  15 credits	  15 credits
+
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+ Code 	 Module 		Credit	 Mark 	 Grade
+ ---- 	 -------------------- 	 ------	 ---- 	 -----
+
+
+ Final Course Grade = C
