@@ -1,0 +1,199 @@
+ ID 101: Cod Vanguard stock level: 1
+ ID 102: Fifa 22  stock level: 1
+ ID 103: GTA V stock level: 1
+ ID 104: Battlefield 2042 stock level: 1
+ ID 105: F1 2021 stock level: 1
+ ID 106: Minecraft stock level: 101
+ ID 107: Halo Infinite stock level: 1
+ ID 108: Skyrim stock level: 201
+ ID 109: NBA 2K22 stock level: 1
+ ID 110: Cod Black Ops 4 stock level: 1
+
+StockDemo coryStockDemo = new StockDemo();
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 0
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 0
+ ID 104: Battlefield 2042 stock level: 0
+ ID 105: F1 2021 stock level: 0
+ ID 106: Minecraft stock level: 0
+ ID 107: Halo Infinite stock level: 0
+ ID 108: Skyrim stock level: 0
+ ID 109: NBA 2K22 stock level: 0
+ ID 110: Cod Black Ops 4 stock level: 0
+
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 500
+ ID 102: Fifa 22  stock level: 400
+ ID 103: GTA V stock level: 300
+ ID 104: Battlefield 2042 stock level: 600
+ ID 105: F1 2021 stock level: 100
+ ID 106: Minecraft stock level: 700
+ ID 107: Halo Infinite stock level: 800
+ ID 108: Skyrim stock level: 800
+ ID 109: NBA 2K22 stock level: 900
+ ID 110: Cod Black Ops 4 stock level: 100
+
+Sold400of Cod Vanguard
+Sold400of Fifa 22 
+Sold200of GTA V
+Sold500of Battlefield 2042
+Sold0of F1 2021
+Sold500of Minecraft
+Sold700of Halo Infinite
+Sold500of Skyrim
+Sold800of NBA 2K22
+Sold0of Cod Black Ops 4
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 100
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 100
+ ID 104: Battlefield 2042 stock level: 100
+ ID 105: F1 2021 stock level: 100
+ ID 106: Minecraft stock level: 200
+ ID 107: Halo Infinite stock level: 100
+ ID 108: Skyrim stock level: 300
+ ID 109: NBA 2K22 stock level: 100
+ ID 110: Cod Black Ops 4 stock level: 100
+
+StockDemo coryStockDemo = new StockDemo();
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 0
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 0
+ ID 104: Battlefield 2042 stock level: 0
+ ID 105: F1 2021 stock level: 0
+ ID 106: Minecraft stock level: 0
+ ID 107: Halo Infinite stock level: 0
+ ID 108: Skyrim stock level: 0
+ ID 109: NBA 2K22 stock level: 0
+ ID 110: Cod Black Ops 4 stock level: 0
+
+Not enough shelf space forCod Vanguard Please sell the already aquired stock 
+Not enough shelf space forFifa 22  Please sell the already aquired stock 
+Not enough shelf space forGTA V Please sell the already aquired stock 
+Not enough shelf space forBattlefield 2042 Please sell the already aquired stock 
+Not enough shelf space forF1 2021 Please sell the already aquired stock 
+Not enough shelf space forMinecraft Please sell the already aquired stock 
+Not enough shelf space forHalo Infinite Please sell the already aquired stock 
+Not enough shelf space forSkyrim Please sell the already aquired stock 
+Not enough shelf space forNBA 2K22 Please sell the already aquired stock 
+Not enough shelf space forCod Black Ops 4 Please sell the already aquired stock 
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 0
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 0
+ ID 104: Battlefield 2042 stock level: 0
+ ID 105: F1 2021 stock level: 0
+ ID 106: Minecraft stock level: 0
+ ID 107: Halo Infinite stock level: 0
+ ID 108: Skyrim stock level: 0
+ ID 109: NBA 2K22 stock level: 0
+ ID 110: Cod Black Ops 4 stock level: 0
+
+The product Cod Vanguard is out of stock
+The product Fifa 22  is out of stock
+The product GTA V is out of stock
+The product Battlefield 2042 is out of stock
+The product F1 2021 is out of stock
+The product Minecraft is out of stock
+The product Halo Infinite is out of stock
+The product Skyrim is out of stock
+The product NBA 2K22 is out of stock
+The product Cod Black Ops 4 is out of stock
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 0
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 0
+ ID 104: Battlefield 2042 stock level: 0
+ ID 105: F1 2021 stock level: 0
+ ID 106: Minecraft stock level: 0
+ ID 107: Halo Infinite stock level: 0
+ ID 108: Skyrim stock level: 0
+ ID 109: NBA 2K22 stock level: 0
+ ID 110: Cod Black Ops 4 stock level: 0
+
+StockDemo coryStockDemo = new StockDemo();
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 0
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 0
+ ID 104: Battlefield 2042 stock level: 0
+ ID 105: F1 2021 stock level: 0
+ ID 106: Minecraft stock level: 0
+ ID 107: Halo Infinite stock level: 0
+ ID 108: Skyrim stock level: 0
+ ID 109: NBA 2K22 stock level: 0
+ ID 110: Cod Black Ops 4 stock level: 0
+
+Not enough shelf space forCod Vanguard Please sell the already aquired stock 
+Not enough shelf space forFifa 22  Please sell the already aquired stock 
+Not enough shelf space forGTA V Please sell the already aquired stock 
+Not enough shelf space forBattlefield 2042 Please sell the already aquired stock 
+Not enough shelf space forF1 2021 Please sell the already aquired stock 
+Not enough shelf space forMinecraft Please sell the already aquired stock 
+Not enough shelf space forHalo Infinite Please sell the already aquired stock 
+Not enough shelf space forSkyrim Please sell the already aquired stock 
+Not enough shelf space forNBA 2K22 Please sell the already aquired stock 
+Not enough shelf space forCod Black Ops 4 Please sell the already aquired stock 
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 0
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 0
+ ID 104: Battlefield 2042 stock level: 0
+ ID 105: F1 2021 stock level: 0
+ ID 106: Minecraft stock level: 0
+ ID 107: Halo Infinite stock level: 0
+ ID 108: Skyrim stock level: 0
+ ID 109: NBA 2K22 stock level: 0
+ ID 110: Cod Black Ops 4 stock level: 0
+
+The product Cod Vanguard is out of stock
+The product Fifa 22  is out of stock
+The product GTA V is out of stock
+The product Battlefield 2042 is out of stock
+The product F1 2021 is out of stock
+The product Minecraft is out of stock
+The product Halo Infinite is out of stock
+The product Skyrim is out of stock
+The product NBA 2K22 is out of stock
+The product Cod Black Ops 4 is out of stock
+
+ Cory's Stock List
+ ====================
+
+ ID 101: Cod Vanguard stock level: 0
+ ID 102: Fifa 22  stock level: 0
+ ID 103: GTA V stock level: 0
+ ID 104: Battlefield 2042 stock level: 0
+ ID 105: F1 2021 stock level: 0
+ ID 106: Minecraft stock level: 0
+ ID 107: Halo Infinite stock level: 0
+ ID 108: Skyrim stock level: 0
+ ID 109: NBA 2K22 stock level: 0
+ ID 110: Cod Black Ops 4 stock level: 0
+
