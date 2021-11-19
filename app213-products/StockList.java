@@ -49,15 +49,15 @@ public class StockList
      Product product = findProduct(productID);
      if(product != null) 
         {
-            if(product.getQuantity() > 0)
+            if(product.getQuantity() < 500)
             {
                 product.increaseQuantity(amount);
-                System.out.println("Bought" + amount  + "of " + product.getName());
+                System.out.println("Bought" + amount  + " of " + product.getName());
                 
             }
             else
             {
-                System.out.println("Not enough shelf space for" + 
+                System.out.println(" Not enough shelf space for " + 
                                      product.getName() + 
                              " Please sell the already aquired stock ");
                 
@@ -128,8 +128,25 @@ public class StockList
         }
     }    
 
+   /**
+    * Method to remove a product from a stock list. 
+    */ 
+    public void removeProduct(int productID)
+{ 
+    Product product = findProduct(productID);
     
-    /**
+    if(product != null)
+    {
+     stock.remove(product);
+     System.out.println("Product " + productID + " isnt here anymore");
+    }
+    else 
+    { 
+    System.out.println("Couldn't find product");    
+    }
+
+}
+      /**
      * Locate a product with the given ID, and return how
      * many of this item are in stock. If the ID does not
      * match any product, return zero.
