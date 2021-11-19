@@ -1,0 +1,24 @@
+Product coryProductDemo = new Product(111, "Fifa 21");
+coryProductDemo.print();
+ ID 111: Fifa 21 stock level: 0
+coryProductDemo.decreaseQuantity(10);
+coryProductDemo.print();
+ ID 111: Fifa 21 stock level: 0
+coryProductDemo.increaseQuantity(35);
+coryProductDemo.print();
+ ID 111: Fifa 21 stock level: 35
+coryProductDemo.decreaseQuantity(10);
+coryProductDemo.print();
+ ID 111: Fifa 21 stock level: 25
+Product coryProductTest = new Product(112, "Fifa 20");
+StockList stockList = new StockList();
+stockList.add(coryProductDemo);
+stockList.add(coryProductTest);
+stockList.print();
+
+ Cory's Stock List
+ ====================
+
+ ID 111: Fifa 21 stock level: 25
+ ID 112: Fifa 20 stock level: 0
+
